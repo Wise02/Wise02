@@ -12,7 +12,7 @@ defenses, and support proactive cyber defense strategies.**
 ## Education:
 **IT Course Ort Braude College (2021 2022)**
 
-**Field Technician Emerald / Kando (2022 2024)**
+**Field Technician Amarel ltd (2022 2024)**
 
 **IT Helpdesk Tier 2 GAV Systems (2024 Present)**
 
