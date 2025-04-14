@@ -1,3 +1,5 @@
+<img src="wise.gif" alt="GitHub Banner" width="35%" />
+
 # 💫 About Me:
 ## Hi! my name is Itay (aka Wise)
 ### a little about me:
